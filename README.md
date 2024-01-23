@@ -5,8 +5,6 @@
 Modify your doxygen input file, usually named `Doxyfile`, with the following options:
 
 ```
-# Add css files to extra stylesheet
-
 HTML_EXTRA_STYLESHEET  = "css/style.css" \
                          "css/dark_style.css"
 ```
@@ -18,4 +16,3 @@ HTML_HEADER            = "header.html"
 
 HTML_FOOTER            = "footer.html"
 ```
-
