@@ -9,10 +9,9 @@ HTML_EXTRA_STYLESHEET  = "css/style.css" \
                          "css/dark_style.css"
 ```
 
-Custom made HTML header and footer by enabling this feature with:
+Custom made HTML header and footer by enabling this features with:
 
 ```
 HTML_HEADER            = "header.html"
-
 HTML_FOOTER            = "footer.html"
 ```
